@@ -2,7 +2,6 @@
 
 this is the readme for website demp
 
+delete for rebase 
 
-this is a change on example branch
 
-this is a change on local updateReadme  branch 
